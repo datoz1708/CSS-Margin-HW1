@@ -1,0 +1,29 @@
+.box1 {
+    width: 320px;
+    height: 138px;
+    flex-shrink: 0;
+    border: 1px solid #B4B4B4;
+    background-color: #FFF;
+    margin-top: 73px;
+    margin-left: 109px;
+    margin-right: 851px;
+    margin-bottom: 621px;
+}
+
+.heading3 {
+    color: #000;
+    font-family: Roboto;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.paragraph1 {
+    color: #808080;
+    font-family: Roboto;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
